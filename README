@@ -1,1 +1,3 @@
-
+My attempt a whale classification task.
+The difficulty in this project lies both in amount and imbalance of pictures. The mojority of whales have only one photo, by which they should be recognized.
+I have attempted both classical and deep machine learning algorithms in solving this task, utilizing on-the-go augmentation, a memory-heavy augmentation storing three different stages of it, eigenfaces and regularization.
